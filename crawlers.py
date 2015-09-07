@@ -12,7 +12,6 @@
 
 import urllib
 import re
-import sys
 
 # The Arguments with power to rip the website
 
