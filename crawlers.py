@@ -26,5 +26,7 @@ Filetype = ""
 PageOne = urllib.urlopen( url )
 Content = PageOne.read()
 
+# Parse the contents recursively on the page upto given levels
+
 print Content
 
